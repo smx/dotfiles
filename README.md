@@ -8,6 +8,9 @@ cd dotfiles
 ```
 ### Run install
 ```
+sudo chmod a+x install.sh
+```
+```
 ./install.sh
 ```
 
